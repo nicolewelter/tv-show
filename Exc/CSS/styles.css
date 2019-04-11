@@ -1,0 +1,21 @@
+h1 {
+	color: orange;
+    font-family: "Helvetica", Andale Mono, sans-serif; 
+    font-size: 24pt; 
+}
+
+p {
+	color: rgb(63, 63, 63);
+	font-family: "Helvetica", baskerville, san-serif;
+	font-size: 16pt;	 
+}
+
+h3 {
+	color: grey;
+    font-family: "helvetica", basketville, san-serif;
+    font-size: 20pt;
+}
+
+img{
+	width: 100px;
+}
